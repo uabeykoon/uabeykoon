@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 - ⚡ 
 - 📫 How to reach me: udithaedu@gmail.com -->
 
-### Find me on:
-[<img align="left" alt="uditha | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />][linkedin]
+<!-- ### Find me on:
+[<img align="left" alt="uditha | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />][linkedin] -->
 
 </br>
 </br>
@@ -60,4 +60,4 @@ Here are some ideas to get you started:
         </a>
         
         
-[linkedin]: https://www.linkedin.com/in/uditha-abeykoon       
+<!-- [linkedin]: https://www.linkedin.com/in/uditha-abeykoon        -->
